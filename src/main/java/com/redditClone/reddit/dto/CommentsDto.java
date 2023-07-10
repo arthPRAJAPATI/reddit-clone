@@ -13,6 +13,6 @@ public class CommentsDto {
     private Long id;
     private Long postId;
     private Instant createdDate;
-    private String text;
     private String userName;
+    private String text;
 }
